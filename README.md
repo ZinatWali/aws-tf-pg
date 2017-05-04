@@ -11,7 +11,7 @@ terraform apply
 
 will execute the srcipts.
 
-Both commands will prompt you for Access key, Secured key and password for the database. You can choose a passowrd for the database at this point.
+Both commands will prompt you for Access key, Secured key and password for the database. You can choose a password for the database at this point.
 
 If you want to tear down the whole setup use the command below.
 
