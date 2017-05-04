@@ -13,6 +13,6 @@ will execute the srcipts.
 
 Both commands will prompt you for Access key, Secured key and password for the database. You can choose a passowrd for the database at this point.
 
-If you you want to tear down the whole setup use the command below.
+If you want to tear down the whole setup use the command below.
 
 terraform destroy
